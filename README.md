@@ -1,5 +1,5 @@
 # Contacting_Minion
-This is an app I created for my 7 year old brother who loves minions. I thought a platform where he can tune in and listen to how minions speak might be fun for him, and ofcourse, it was a hit! :-) 
+This is an app I created for my 7 year old brother who loves minions. I thought a platform where he can tune in and listen to how minions speak might be fun for him, and ofcourse, it was a hit! 
 
 # Loading Screen
 
